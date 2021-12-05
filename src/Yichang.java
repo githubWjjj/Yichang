@@ -1,3 +1,5 @@
+//用户自定义异常进行密码验证
+
 import java.awt.EventQueue;
 
 import javax.swing.JFrame;
